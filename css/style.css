@@ -81,11 +81,13 @@ a:focus, a:hover{
 	float:right;
 }
 
+/*
 .about .blurb{
 	width:300px;
 	padding: 100x;
 
 }
+*/
 .about:after{
 	content: "";
 	display:block;
